@@ -23,7 +23,7 @@
 <a href="https://www.hackerrank.com/bhairav kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhairav kumar" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@bhairav kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@bhairav kumar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kumarbhai8sjx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kumarbhai8sjx" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/kumarbhairav9142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="kumarbhai8sjx" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/kumarbhairav9142/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="kumarbhai8sjx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
